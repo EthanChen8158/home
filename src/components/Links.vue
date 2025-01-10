@@ -72,6 +72,7 @@ const siteIcon = {
   LaptopCode,
   Google, 
   Film,
+  Link,
 };
 
 // 链接跳转
